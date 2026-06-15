@@ -1,3 +1,9 @@
+![Azure](https://img.shields.io/badge/Azure-Architect-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![AKS](https://img.shields.io/badge/Kubernetes-AKS-blue)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-green)
+![Platform Engineering](https://img.shields.io/badge/Platform-Engineering-orange)
+
 ☁️ Cloud & Infrastructure Architecture Hub
 👋 Welcome
 
